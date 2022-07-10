@@ -1,6 +1,6 @@
 # zk_product_second_kill
 
-使用zookeeper实现商品秒杀效果
+使用zookeeper集群实现商品秒杀效果
 
 ```java
 @RestController
